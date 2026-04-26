@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="1674" src="[https://i.imgflip.com/65efzo.gif](https://res.cloudinary.com/dbeaem1xr/image/upload/v1777184560/Junior_software_developer_jdjtkr_3ba0e9.png)"  />
 </div>
 
 ###
