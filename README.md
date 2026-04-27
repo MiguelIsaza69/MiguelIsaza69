@@ -61,8 +61,8 @@
 
 ###
 ### 🛠️ Testigos de mi trabajo (Proyectos)
-- [**Proyecto Beta**](link):
-- [**Proyecto Beta**](link):
+- [**Ecommerce**](https://bmparfums.com/):
+- [**Aplicativo web**](https://vidrieraelpaisa.com/):
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelIsaza69&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
