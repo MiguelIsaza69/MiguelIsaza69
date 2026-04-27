@@ -6,7 +6,7 @@
 
 <h1 align="left">👋Hola, soy Miguel Isaza</h1>
 
-<h2 align="left">🚀 Frontend Developer | React • Next.js • TypeScript</h2>
+<h2 align="left">🚀 Junior Developer | React • Next.js • TypeScript</h2>
 
 ###
 
