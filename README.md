@@ -14,11 +14,27 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-isaza-a179a6358" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="https://www.instagram.com/isazza_17/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
-  <a href="https://api.whatsapp.com/send/?phone=573024539932&text&type=phone_number&app_absent=0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" /></a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/miguel-angel-isaza-a179a6358" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/isazza_17/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://api.whatsapp.com/send/?phone=573024539932&text&type=phone_number&app_absent=0" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ###
 <h2 align="left">I code with</h2>
 <div align="left">
