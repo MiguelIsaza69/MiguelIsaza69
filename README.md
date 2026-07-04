@@ -1,16 +1,20 @@
 <div align="center">
-  <img height="1674" width="100%" src="https://res.cloudinary.com/dbeaem1xr/image/upload/v1777319753/Junior_software_developer_1_pahb7x.png"  />
+  <img height="1674" width="100%" src="https://res.cloudinary.com/dbeaem1xr/image/upload/v1777319753/Junior_software_developer_1_pahb7x.png" />
 </div>
 
 ###
 
-<h1 align="left">👋Hola, soy Miguel Isaza</h1>
+<h1 align="left">👋 Hola, soy Miguel Isaza</h1>
 
-<h2 align="left">🚀 Junior Developer | React • Next.js • TypeScript</h2>
+<h2 align="left">🚀 Desarrollador Junior | React • Next.js • TypeScript</h2>
 
 ###
 
-<p align="left">Desarrollador enfocado en la creación de interfaces de alto impacto con una mentalidad analítica y orientada a resultados. Mi pasión por los retos técnicos se combina con una fuerte capacidad para el pensamiento lógico y matemático, lo que me permite proponer múltiples soluciones a un mismo problema hasta encontrar la más eficiente.<br><br>Como líder y colaborador nato, disfruto potenciar el talento de mi equipo y fomentar un ambiente de mejora continua. Soy un eterno aprendiz: dedico mi tiempo libre a desarrollar proyectos personales que me permitan dominar las últimas tendencias y evolucionar al ritmo de la tecnología.</p>
+<p align="left">
+Tecnólogo en Análisis y Desarrollo de Software (SENA) con experiencia como desarrollador en práctica en <b>ePayco</b>, una de las pasarelas de pago más importantes de Colombia. Me enfoco en construir interfaces web modernas y responsivas, con una mentalidad analítica y orientada a resolver problemas de forma eficiente.
+<br><br>
+Trabajo tanto en el <b>frontend</b> (React, TypeScript, JavaScript) como en su integración con el <b>backend</b> (PHP/Laravel). Disfruto escribir código limpio, cuidar cada detalle de la interfaz y aprender nuevas herramientas en cada proyecto.
+</p>
 
 ###
 
@@ -34,43 +38,59 @@
   </tr>
 </table>
 
-
 ###
-<h2 align="left">I code with</h2>
+
+<h2 align="left">🛠️ Tecnologías</h2>
+
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-<h2 align="left">About me</h2>
+###
+
+<h2 align="left">💼 Experiencia</h2>
+
+<p align="left">
+<b>Desarrollador — Práctica Profesional</b> · ePayco · <i>Oct 2025 – Abr 2026</i><br>
+Departamento de Desarrollo. Construí interfaces frontend con React, TypeScript y JavaScript,
+implementé validaciones integradas con el backend en PHP/Laravel y trabajé en la corrección de
+errores y el mantenimiento de funcionalidades, todo dentro de un equipo de desarrollo real.
+</p>
 
 ###
 
-<p align="left">🌟 Fortalezas Clave<br>Pensamiento Analítico: Capacidad para desglosar problemas complejos en soluciones lógicas y matemáticas eficientes.<br><br>Liderazgo Colaborativo: Experiencia guiando equipos hacia objetivos comunes, priorizando la comunicación y el apoyo mutuo.<br><br>Adaptabilidad Tecnológica: Enfoque en el aprendizaje continuo para dominar las herramientas más modernas del mercado.<br><br>💎 Virtudes<br>Perfeccionismo Detallista: No solo escribo código que funciona, escribo código limpio y interfaces pixel-perfect.<br><br>Resolución Multidimensional: Siempre presento al menos dos o tres caminos para resolver un desafío técnico.</p>
+<h2 align="left">🚀 Proyectos</h2>
+
+- **[BM Parfums](https://bmparfums.com/)** — E-commerce de perfumería &nbsp;`Next.js` `React` `TypeScript`
+- **[Vidriera El Paisa](https://vidrieraelpaisa.com/)** — Aplicativo web empresarial &nbsp;`React` `JavaScript`
 
 ###
-### 🛠️ Testigos de mi trabajo (Proyectos)
-- [**Ecommerce**](https://bmparfums.com/): BM_Parfums
-- [**Aplicativo web**](https://vidrieraelpaisa.com/): Vidrieraelpaisa
+
+<h2 align="left">📊 Mis estadísticas</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelIsaza69&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelIsaza69&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelIsaza69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelIsaza69&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
